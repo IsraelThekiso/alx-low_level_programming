@@ -3,9 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- *
  * Description: Print whether a randomly generated number is positive, negative, or zero
- *
  * Return: Always 0 (Success)
  */
 int main(void)
