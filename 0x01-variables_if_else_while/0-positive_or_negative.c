@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /**
- * main - Entry point
- * Description: Print whether a randomly generated number is positive, negative, or zero
+ * main - Determine if a number is positive. negative or zero
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -18,5 +18,5 @@ else if (n == 0)
 printf("is zero\n");
 else
 printf("is negative\n");
-return 0;
+return (0);
 }
