@@ -3,11 +3,9 @@
 #include <time.h>
 /**
  * main - Entry point of the program
- *
  * Description: Print the last digit of a random number and check its value
- *
  * Return: Always 0 (Success)
- */
+ * */
 int main(void)
 {
 int n;
